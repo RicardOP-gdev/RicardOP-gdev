@@ -13,9 +13,11 @@
     <a href="https://github.com/RicardOP-gdev?tab=repositories"><strong>Explore my repositories »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/RicardOP-gdev/BattlePin">Battle Pin</a>
+    <a href="https://github.com/RicardOP-gdev/SweetWorld">Sweet World</a>
     ·
     <a href="https://github.com/RicardOP-gdev/SnakeAR">Snake AR</a>
+    ·
+    <a href="https://github.com/RicardOP-gdev/BattlePin">Battle Pin</a>
   </p>
 </p>
 
