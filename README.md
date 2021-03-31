@@ -7,7 +7,8 @@
   <h3 align="center">About Me</h3>
 
   <p align="center">
-    An awesome README template to jumpstart your projects!
+"Good code is his best documentation"
+- Steve McConnell 
     <br />
     <a href="https://github.com/RicardOP-gdev?tab=repositories"><strong>Explore my repositories »</strong></a>
     <br />
@@ -19,15 +20,19 @@
 </p>
 
 
-
-
 - 👋 Hi, I’m @RicardOP-gdev
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
+<!-- REEL -->
+## DemoReel
 
-<!---
-RicardOP-gdev/RicardOP-gdev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+DemoReel - [YoutubeLink](https://youtu.be/LbHoayk5W70)
+
+<!-- CONTACT -->
+## Contact
+
+E-Mail: rop.gdev@gmail.com
+
+IG Profile: [@rop.gdev](https://www.instagram.com/rop.gdev/)
