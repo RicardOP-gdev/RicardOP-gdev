@@ -29,7 +29,7 @@
 <!-- REEL -->
 ## DemoReel
 
-DemoReel - [YoutubeLink](https://youtu.be/LbHoayk5W70)
+DemoReel - [Youtube Link](https://youtu.be/LbHoayk5W70)
 
 <!-- CONTACT -->
 ## Contact
