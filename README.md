@@ -1,8 +1,7 @@
-<!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+  <a href="https://https://github.com/RicardOP-gdev/RicardOP-gdev">
+    <img src="PersonalLogo.png" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">About Me</h3>
