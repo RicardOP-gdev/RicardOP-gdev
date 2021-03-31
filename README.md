@@ -19,12 +19,13 @@
   </p>
 </p>
 
+<!-- PRESENTATION -->
+## Presentation
 
-- 👋 Hi, I’m @RicardOP-gdev
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Ricard Orpí!
+- 👀 I’m interested to find a job related to the wolrd of Software Development.
+- 🌱 I’m currently applying in la Salle (Univeritat Ramon Llull) to do the degree in multimedia engineering.
+
 <!-- REEL -->
 ## DemoReel
 
