@@ -36,7 +36,7 @@ DemoReel - [Youtube Link](https://youtu.be/LbHoayk5W70)
 <!-- CONTACT -->
 ## Contact
 
-Linkdn: ricard-orpí-perez (https://youtu.be/LbHoayk5W70)
+Linkdn: [ricard-orpí-perez](https://linkedin.com/in/ricard-orpí-pérez)
 
 E-Mail: rop.gdev@gmail.com
 
