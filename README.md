@@ -25,8 +25,8 @@
 ## Presentation
 
 - 👋 Hi, I’m Ricard Orpí!
-- 👀 I’m interested to find a job related to the wolrd of Software Development.
-- 🌱 I’m currently applying in la Salle (Univeritat Ramon Llull) to do the degree in Multimedia Engineering.
+- 💻 I’m interested to find a job related to the wolrd of Software Development.
+- 🌱 I’m currently studying Multimedia Engineering degree in La Salle.
 
 <!-- REEL -->
 ## DemoReel
@@ -35,6 +35,8 @@ DemoReel - [Youtube Link](https://youtu.be/LbHoayk5W70)
 
 <!-- CONTACT -->
 ## Contact
+
+Linkdn: ricard-orpí-perez (https://youtu.be/LbHoayk5W70)
 
 E-Mail: rop.gdev@gmail.com
 
